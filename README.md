@@ -6,7 +6,8 @@
 
   Solutry é um site de agência de TI totalmente responsivo para todos os dispositivos, construído em HTML, CSS e JavaScript.
 
-  <a href="https://saggiorodigital.github.io"><strong>➥ Ver Mais</strong></a>
+  <a href="https://saggiorodigital.github.io" target="_blank"><strong>➥ Ver Mais</strong></a>
+
 
 </div>
 
