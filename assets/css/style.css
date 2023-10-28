@@ -140,6 +140,7 @@ body { background: var(--white); }
   font-size: var(--fs-4);
   line-height: 1.8;
   margin-bottom: 15px;
+  margin-top: 3px;
 }
 
 .btn {
