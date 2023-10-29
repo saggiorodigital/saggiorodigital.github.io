@@ -464,6 +464,7 @@ body { background: var(--white); }
 .blog-title > a {
   color: inherit;
   transition: var(--transition);
+  text-align: center;
 }
 
 .blog-title > a:is(:hover, :focus) { color: var(--red-crayola); }
